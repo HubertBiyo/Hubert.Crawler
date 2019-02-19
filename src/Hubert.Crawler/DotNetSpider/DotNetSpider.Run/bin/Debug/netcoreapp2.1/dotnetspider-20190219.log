@@ -1,0 +1,261 @@
+2019-02-19 08:20:02.350 +08:00 [Information] On init...
+2019-02-19 08:20:02.409 +08:00 [Information] Init components...
+2019-02-19 08:20:02.427 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:20:02.638 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:20:05.933 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-19 08:20:06.036 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 3074 Extract 130 Pipeline 6
+2019-02-19 08:20:21.867 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 3074 Extract 130 Pipeline 6
+2019-02-19 08:20:21.872 +08:00 [Information] Consume: 19.5445535 seconds
+2019-02-19 08:21:55.987 +08:00 [Information] On init...
+2019-02-19 08:21:56.048 +08:00 [Information] Init components...
+2019-02-19 08:21:56.063 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:21:56.264 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:23:32.860 +08:00 [Information] On init...
+2019-02-19 08:23:32.928 +08:00 [Information] Init components...
+2019-02-19 08:23:32.944 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:23:33.155 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:38:43.751 +08:00 [Information] On init...
+2019-02-19 08:38:43.818 +08:00 [Information] Init components...
+2019-02-19 08:38:43.836 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:38:44.056 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:40:40.974 +08:00 [Information] On init...
+2019-02-19 08:40:41.013 +08:00 [Information] Init components...
+2019-02-19 08:40:41.023 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:40:41.120 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:40:42.104 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:40:42.261 +08:00 [Verbose] Left 1 Success 0 Error 1 Total 2 Dowload 661 Extract 0 Pipeline 0
+2019-02-19 08:40:42.880 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:40:42.983 +08:00 [Verbose] Left 1 Success 0 Error 2 Total 3 Dowload 591 Extract 0 Pipeline 0
+2019-02-19 08:40:43.817 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:40:43.919 +08:00 [Verbose] Left 1 Success 0 Error 3 Total 4 Dowload 640 Extract 0 Pipeline 0
+2019-02-19 08:40:44.338 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:40:44.440 +08:00 [Verbose] Left 1 Success 0 Error 4 Total 5 Dowload 562 Extract 0 Pipeline 0
+2019-02-19 08:40:45.070 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:40:45.172 +08:00 [Verbose] Left 1 Success 0 Error 5 Total 6 Dowload 558 Extract 0 Pipeline 0
+2019-02-19 08:41:00.140 +08:00 [Information] On init...
+2019-02-19 08:41:00.200 +08:00 [Information] Init components...
+2019-02-19 08:41:00.218 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:41:00.417 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:41:37.168 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:41:37.312 +08:00 [Verbose] Left 1 Success 0 Error 1 Total 2 Dowload 1039 Extract 0 Pipeline 0
+2019-02-19 08:41:49.511 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-19 08:41:49.612 +08:00 [Verbose] Left 0 Success 1 Error 1 Total 2 Dowload 1778 Extract 5490 Pipeline 4187
+2019-02-19 08:42:05.484 +08:00 [Verbose] Left 0 Success 1 Error 1 Total 2 Dowload 1778 Extract 5490 Pipeline 4187
+2019-02-19 08:42:05.490 +08:00 [Information] Consume: 65.3783748 seconds
+2019-02-19 08:42:43.903 +08:00 [Information] On init...
+2019-02-19 08:42:43.942 +08:00 [Information] Init components...
+2019-02-19 08:42:43.952 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:42:44.040 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:42:47.254 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-19 08:42:47.356 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 3047 Extract 101 Pipeline 4
+2019-02-19 08:43:06.080 +08:00 [Information] On init...
+2019-02-19 08:43:06.137 +08:00 [Information] Init components...
+2019-02-19 08:43:06.151 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:43:06.320 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:43:09.299 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-19 08:43:09.400 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 2760 Extract 128 Pipeline 5
+2019-02-19 08:43:20.151 +08:00 [Information] On init...
+2019-02-19 08:43:20.207 +08:00 [Information] Init components...
+2019-02-19 08:43:20.226 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:43:20.439 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:43:20.759 +08:00 [Error] Download https://hd.esf.fang.com/house-a0848/ failed: Response status code does not indicate success: 502 (BadGateway).
+2019-02-19 08:43:20.768 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-19 08:43:20.870 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:43:51.225 +08:00 [Information] On init...
+2019-02-19 08:43:51.292 +08:00 [Information] Init components...
+2019-02-19 08:43:51.309 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-19 08:43:51.526 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:45:33.915 +08:00 [Information] On init...
+2019-02-19 08:45:33.957 +08:00 [Information] Init components...
+2019-02-19 08:45:33.969 +08:00 [Information] Add start urls to scheduler, count 7.
+2019-02-19 08:45:34.060 +08:00 [Verbose] Left 7 Success 0 Error 0 Total 7 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 08:45:50.157 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-19 08:45:51.296 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-19 08:45:51.398 +08:00 [Verbose] Left 5 Success 2 Error 0 Total 7 Dowload 8201 Extract 151 Pipeline 183
+2019-02-19 08:45:52.391 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-19 08:45:54.012 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-19 08:45:54.114 +08:00 [Verbose] Left 3 Success 4 Error 0 Total 7 Dowload 4579 Extract 132 Pipeline 183
+2019-02-19 08:45:54.763 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-19 08:45:55.456 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-19 08:45:55.557 +08:00 [Verbose] Left 1 Success 6 Error 0 Total 7 Dowload 3160 Extract 124 Pipeline 183
+2019-02-19 08:45:56.184 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:45:56.754 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:45:56.858 +08:00 [Verbose] Left 1 Success 6 Error 2 Total 9 Dowload 2477 Extract 124 Pipeline 183
+2019-02-19 08:45:57.295 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:45:58.048 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:45:58.151 +08:00 [Verbose] Left 1 Success 6 Error 4 Total 11 Dowload 2072 Extract 124 Pipeline 183
+2019-02-19 08:45:58.765 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 19
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 08:45:59.795 +08:00 [Verbose] Left 0 Success 6 Error 6 Total 12 Dowload 1832 Extract 124 Pipeline 183
+2019-02-19 08:46:15.696 +08:00 [Verbose] Left 0 Success 6 Error 6 Total 12 Dowload 1832 Extract 124 Pipeline 183
+2019-02-19 08:46:15.702 +08:00 [Information] Consume: 41.7969674 seconds
+2019-02-19 14:23:45.429 +08:00 [Information] On init...
+2019-02-19 14:23:45.523 +08:00 [Information] Init components...
+2019-02-19 14:23:45.542 +08:00 [Information] Add start urls to scheduler, count 7.
+2019-02-19 14:23:45.802 +08:00 [Verbose] Left 7 Success 0 Error 0 Total 7 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 14:24:57.871 +08:00 [Information] On init...
+2019-02-19 14:24:57.931 +08:00 [Information] Init components...
+2019-02-19 14:24:57.947 +08:00 [Information] Add start urls to scheduler, count 7.
+2019-02-19 14:24:58.205 +08:00 [Verbose] Left 7 Success 0 Error 0 Total 7 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 14:26:33.356 +08:00 [Information] On init...
+2019-02-19 14:26:33.434 +08:00 [Information] Init components...
+2019-02-19 14:26:33.451 +08:00 [Information] Add start urls to scheduler, count 7.
+2019-02-19 14:26:33.646 +08:00 [Verbose] Left 7 Success 0 Error 0 Total 7 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 14:27:39.969 +08:00 [Information] On init...
+2019-02-19 14:27:40.027 +08:00 [Information] Init components...
+2019-02-19 14:27:40.042 +08:00 [Information] Add start urls to scheduler, count 7.
+2019-02-19 14:27:40.255 +08:00 [Verbose] Left 7 Success 0 Error 0 Total 7 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 14:28:39.582 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-19 16:24:46.888 +08:00 [Information] On init...
+2019-02-19 16:24:46.954 +08:00 [Information] Init components...
+2019-02-19 16:24:46.964 +08:00 [Information] Add start urls to scheduler, count 14.
+2019-02-19 16:24:47.052 +08:00 [Verbose] Left 14 Success 0 Error 0 Total 14 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 16:25:07.290 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i314/ success, results 0, effectedRow 0.
+2019-02-19 16:25:37.537 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i313/ success, results 0, effectedRow 0.
+2019-02-19 16:26:07.850 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i312/ success, results 0, effectedRow 0.
+2019-02-19 16:26:37.403 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i311/ success, results 0, effectedRow 0.
+2019-02-19 16:27:07.412 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i310/ success, results 0, effectedRow 0.
+2019-02-19 16:27:37.664 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i39/ success, results 0, effectedRow 0.
+2019-02-19 16:28:08.393 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i38/ success, results 0, effectedRow 0.
+2019-02-19 16:28:38.457 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-19 16:29:09.917 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-19 16:29:41.394 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-19 16:29:41.496 +08:00 [Verbose] Left 4 Success 10 Error 0 Total 14 Dowload 584 Extract 28583 Pipeline 167
+2019-02-19 16:30:11.144 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-19 16:30:42.609 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-19 16:31:12.350 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-19 16:31:14.755 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 20
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 16:31:17.453 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 20
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 16:31:19.818 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 20
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 16:31:21.767 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 20
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 16:31:23.734 +08:00 [Warning] Retry request: https://hd.esf.fang.com/house-a0848/ because processor exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetSpider.Housing.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\HousingPageProcessor.cs:line 20
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:10:10.333 +08:00 [Information] On init...
+2019-02-19 17:10:10.412 +08:00 [Information] Init components...
+2019-02-19 17:10:10.433 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:10:10.732 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:12:14.519 +08:00 [Information] On init...
+2019-02-19 17:12:14.571 +08:00 [Information] Init components...
+2019-02-19 17:12:14.586 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:12:14.772 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:16:24.153 +08:00 [Information] On init...
+2019-02-19 17:16:24.212 +08:00 [Information] Init components...
+2019-02-19 17:16:24.231 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:16:24.416 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:17:21.216 +08:00 [Information] On init...
+2019-02-19 17:17:21.270 +08:00 [Information] Init components...
+2019-02-19 17:17:21.285 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:17:21.460 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:20:32.687 +08:00 [Information] On init...
+2019-02-19 17:20:32.741 +08:00 [Information] Init components...
+2019-02-19 17:20:32.755 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:20:32.925 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:24:50.582 +08:00 [Information] On init...
+2019-02-19 17:24:50.637 +08:00 [Information] Init components...
+2019-02-19 17:24:50.652 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:24:50.832 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:25:27.467 +08:00 [Information] On init...
+2019-02-19 17:25:27.524 +08:00 [Information] Init components...
+2019-02-19 17:25:27.542 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:25:27.749 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:25:40.299 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.11 because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 32
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:27:36.149 +08:00 [Information] On init...
+2019-02-19 17:27:36.205 +08:00 [Information] Init components...
+2019-02-19 17:27:36.224 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:27:36.458 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:36:33.362 +08:00 [Information] On init...
+2019-02-19 17:36:33.416 +08:00 [Information] Init components...
+2019-02-19 17:36:33.431 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:36:33.613 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:37:25.327 +08:00 [Information] On init...
+2019-02-19 17:37:25.366 +08:00 [Information] Init components...
+2019-02-19 17:37:25.376 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-19 17:37:25.472 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-19 17:37:26.254 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.11 success, results 0, effectedRow 0.
+2019-02-19 17:37:26.879 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.10 success, results 0, effectedRow 0.
+2019-02-19 17:37:27.370 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.9 success, results 0, effectedRow 0.
+2019-02-19 17:37:27.949 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.8 success, results 0, effectedRow 0.
+2019-02-19 17:37:28.485 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.7 success, results 0, effectedRow 0.
+2019-02-19 17:37:29.204 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.6 success, results 0, effectedRow 0.
+2019-02-19 17:37:29.708 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.5 success, results 0, effectedRow 0.
+2019-02-19 17:37:30.160 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.4 success, results 0, effectedRow 0.
+2019-02-19 17:37:30.651 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.3 success, results 0, effectedRow 0.
+2019-02-19 17:37:31.422 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.2 success, results 0, effectedRow 0.
+2019-02-19 17:37:31.524 +08:00 [Verbose] Left 1 Success 10 Error 0 Total 11 Dowload 360 Extract 80 Pipeline 54
+2019-02-19 17:37:31.631 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 30
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:37:31.865 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 30
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:37:32.054 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 30
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:37:32.249 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 30
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:37:32.457 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 30
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-19 17:37:48.826 +08:00 [Verbose] Left 0 Success 10 Error 6 Total 16 Dowload 229 Extract 80 Pipeline 54
+2019-02-19 17:37:48.832 +08:00 [Information] Consume: 23.511895 seconds

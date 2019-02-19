@@ -1,0 +1,111 @@
+2019-02-18 22:16:19.568 +08:00 [Information] On init...
+2019-02-18 22:16:19.642 +08:00 [Information] Init components...
+2019-02-18 22:16:19.659 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:16:19.821 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:16:21.192 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i39/ success, results 0, effectedRow 0.
+2019-02-18 22:16:22.080 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i38/ success, results 0, effectedRow 0.
+2019-02-18 22:16:22.183 +08:00 [Verbose] Left 7 Success 2 Error 0 Total 9 Dowload 774 Extract 235 Pipeline 8
+2019-02-18 22:16:23.151 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-18 22:16:24.164 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-18 22:16:24.268 +08:00 [Verbose] Left 5 Success 4 Error 0 Total 9 Dowload 765 Extract 202 Pipeline 9
+2019-02-18 22:16:24.846 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-18 22:16:25.866 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-18 22:16:25.970 +08:00 [Verbose] Left 3 Success 6 Error 0 Total 9 Dowload 709 Extract 180 Pipeline 8
+2019-02-18 22:16:27.232 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-18 22:16:28.255 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-18 22:16:28.360 +08:00 [Verbose] Left 1 Success 8 Error 0 Total 9 Dowload 766 Extract 171 Pipeline 8
+2019-02-18 22:16:29.290 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:16:44.986 +08:00 [Verbose] Left 0 Success 9 Error 0 Total 9 Dowload 768 Extract 167 Pipeline 8
+2019-02-18 22:16:44.991 +08:00 [Information] Consume: 25.4378331 seconds
+2019-02-18 22:19:20.540 +08:00 [Information] On init...
+2019-02-18 22:19:20.654 +08:00 [Information] Init components...
+2019-02-18 22:19:20.686 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:19:21.026 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:22:18.084 +08:00 [Information] On init...
+2019-02-18 22:22:18.148 +08:00 [Information] Init components...
+2019-02-18 22:22:18.165 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-18 22:22:18.310 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:22:19.804 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:22:19.906 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 1094 Extract 298 Pipeline 9
+2019-02-18 22:24:31.530 +08:00 [Information] On init...
+2019-02-18 22:24:31.627 +08:00 [Information] Init components...
+2019-02-18 22:24:31.650 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:24:31.984 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:25:38.406 +08:00 [Information] On init...
+2019-02-18 22:25:38.482 +08:00 [Information] Init components...
+2019-02-18 22:25:38.499 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:25:38.654 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:25:39.905 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i39/ success, results 0, effectedRow 0.
+2019-02-18 22:25:40.628 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i38/ success, results 0, effectedRow 0.
+2019-02-18 22:25:40.732 +08:00 [Verbose] Left 7 Success 2 Error 0 Total 9 Dowload 619 Extract 259 Pipeline 7
+2019-02-18 22:25:41.571 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-18 22:25:42.289 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-18 22:25:42.392 +08:00 [Verbose] Left 5 Success 4 Error 0 Total 9 Dowload 570 Extract 227 Pipeline 8
+2019-02-18 22:25:42.791 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-18 22:25:43.966 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-18 22:25:44.069 +08:00 [Verbose] Left 3 Success 6 Error 0 Total 9 Dowload 558 Extract 215 Pipeline 8
+2019-02-18 22:25:44.878 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-18 22:25:45.638 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-18 22:25:45.740 +08:00 [Verbose] Left 1 Success 8 Error 0 Total 9 Dowload 556 Extract 203 Pipeline 8
+2019-02-18 22:25:46.733 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:27:23.860 +08:00 [Information] On init...
+2019-02-18 22:27:23.918 +08:00 [Information] Init components...
+2019-02-18 22:27:23.933 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:27:24.067 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:27:26.044 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i39/ success, results 0, effectedRow 0.
+2019-02-18 22:27:26.962 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i38/ success, results 0, effectedRow 0.
+2019-02-18 22:27:27.066 +08:00 [Verbose] Left 7 Success 2 Error 0 Total 9 Dowload 1095 Extract 241 Pipeline 8
+2019-02-18 22:27:27.897 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-18 22:27:29.103 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-18 22:27:29.205 +08:00 [Verbose] Left 5 Success 4 Error 0 Total 9 Dowload 934 Extract 210 Pipeline 9
+2019-02-18 22:27:30.301 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-18 22:27:31.046 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-18 22:27:31.150 +08:00 [Verbose] Left 3 Success 6 Error 0 Total 9 Dowload 847 Extract 202 Pipeline 9
+2019-02-18 22:27:31.942 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-18 22:27:32.731 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-18 22:27:32.834 +08:00 [Verbose] Left 1 Success 8 Error 0 Total 9 Dowload 769 Extract 198 Pipeline 10
+2019-02-18 22:27:33.456 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:27:52.770 +08:00 [Information] On init...
+2019-02-18 22:27:52.831 +08:00 [Information] Init components...
+2019-02-18 22:27:52.851 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:27:53.012 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:27:54.832 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i39/ success, results 0, effectedRow 0.
+2019-02-18 22:27:55.677 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i38/ success, results 0, effectedRow 0.
+2019-02-18 22:27:55.780 +08:00 [Verbose] Left 7 Success 2 Error 0 Total 9 Dowload 960 Extract 260 Pipeline 8
+2019-02-18 22:27:56.564 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-18 22:27:57.264 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-18 22:27:57.366 +08:00 [Verbose] Left 5 Success 4 Error 0 Total 9 Dowload 733 Extract 216 Pipeline 8
+2019-02-18 22:27:58.406 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-18 22:27:59.242 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-18 22:27:59.345 +08:00 [Verbose] Left 3 Success 6 Error 0 Total 9 Dowload 705 Extract 219 Pipeline 8
+2019-02-18 22:28:00.484 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-18 22:28:01.494 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-18 22:28:01.598 +08:00 [Verbose] Left 1 Success 8 Error 0 Total 9 Dowload 738 Extract 208 Pipeline 8
+2019-02-18 22:28:02.702 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:28:31.208 +08:00 [Information] On init...
+2019-02-18 22:28:31.265 +08:00 [Information] Init components...
+2019-02-18 22:28:31.281 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-18 22:28:31.423 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:28:32.755 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i39/ success, results 0, effectedRow 0.
+2019-02-18 22:28:33.771 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i38/ success, results 0, effectedRow 0.
+2019-02-18 22:28:33.874 +08:00 [Verbose] Left 7 Success 2 Error 0 Total 9 Dowload 773 Extract 283 Pipeline 8
+2019-02-18 22:28:34.493 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i37/ success, results 0, effectedRow 0.
+2019-02-18 22:28:35.846 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i36/ success, results 0, effectedRow 0.
+2019-02-18 22:28:35.950 +08:00 [Verbose] Left 5 Success 4 Error 0 Total 9 Dowload 754 Extract 235 Pipeline 9
+2019-02-18 22:28:36.856 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i35/ success, results 0, effectedRow 0.
+2019-02-18 22:28:37.948 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i34/ success, results 0, effectedRow 0.
+2019-02-18 22:28:38.052 +08:00 [Verbose] Left 3 Success 6 Error 0 Total 9 Dowload 759 Extract 211 Pipeline 9
+2019-02-18 22:28:39.329 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i33/ success, results 0, effectedRow 0.
+2019-02-18 22:28:41.622 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/i32/ success, results 0, effectedRow 0.
+2019-02-18 22:28:41.723 +08:00 [Verbose] Left 1 Success 8 Error 0 Total 9 Dowload 938 Extract 220 Pipeline 8
+2019-02-18 22:28:42.531 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:28:58.417 +08:00 [Verbose] Left 0 Success 9 Error 0 Total 9 Dowload 899 Extract 219 Pipeline 9
+2019-02-18 22:28:58.421 +08:00 [Information] Consume: 27.2252265 seconds
+2019-02-18 22:33:24.784 +08:00 [Information] On init...
+2019-02-18 22:33:24.882 +08:00 [Information] Init components...
+2019-02-18 22:33:24.913 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-18 22:33:25.159 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:33:28.163 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:33:28.264 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 2485 Extract 347 Pipeline 9
+2019-02-18 22:33:44.049 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 2485 Extract 347 Pipeline 9
+2019-02-18 22:33:44.054 +08:00 [Information] Consume: 19.2910453 seconds

@@ -1,0 +1,120 @@
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 他总是让我意外，但他从不让我失望。<br>从少年时代起，他就是纯美的杏花春雨，犀利的东风破晓，宁静的光芒万丈。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 最卑鄙的是利用一个人忘记另一个人。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 愿你落落大方走过世间繁华<br>不管谎言欺骗真假余生有她<br>#2018有没有什么想说的话#
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 一场玩笑，何必看得太认真；一场梦，何必执着不醒；一些人，何必依依不舍；一些事，何必太怀念。<br><br>不属于我的，给我我也不要，属于我的，就算我不要，可还是我的。<br><br>那些曾经走过的悲喜，刻成了回忆，每个不经意想起的瞬间，都在回忆里面留下伤痕。<br>多余的感伤都该被淘汰，有些事或许我们该要学会看开，有些人或许我们该要学会原谅。<br><br>现实太残忍，对别人少了那一种信任。世界太复杂，对自己少了那一种单纯。<br><br>有时候，真相也许太重，就连自己也欺骗。幸福总是太短暂，幸福离开了，就剩下痛苦，眼泪，怀念陪我们度过
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我也不知道有没有爱过你 算不算爱你，但那时候我的眼泪是真的 难过也是真的 想和你在一起一辈子也是真的 ……
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有一种约会，叫做约会大作战<br>有一种爱情，叫做刀剑神域<br>有一种妈妈，叫做欢乐课程<br>有一种变态，叫做变态王子与不笑猫<br>有一种姐弟，叫做亲吻姐姐<br>有一种家族，叫做家庭教师<br>有一种黑白，叫做死亡笔记<br>有一种改变，叫做冰果<br>有一种速度，叫做加速世界<br>有一种管家，叫做旋风管家<br>有一种朋友，叫做我的朋友很少<br>有一种猫妖，叫做守护猫娘绯鞠<br>有一种攻略，叫做只有神知道的世界<br>有一种修罗场，叫做我的女友与青梅竹马修罗场<br>有一种机战，叫无限斯特拉托斯<br>有一种flag，叫如果他的旗帜被折断<br>有一种空白，叫做游戏人生<br>有一种恋爱喜剧，叫做我的青春恋爱物语果然有问题<br>有一种风，叫做魔弹之王与战姬<br>有一种汽水，叫空罐少女<br>【未完｝
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 心里头总要有个念想，才不至于感觉空空当当。 心里头总要有个盼头，才不至于像个行尸走肉。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 他对你忽冷忽热其实他在为比你更重要的人赴汤蹈火
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 心是梅，凌寒傲雪，高洁独放；静如兰，素雅芳华，幽绽空谷；气似竹，虚心有节，坚韧有度；淡为菊，冷艳清贞，不谄不媚。心静气淡素如简，梅兰竹菊清似风。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 别人的故事演绎的再好，也不能代替自己的人生
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 蓦然之时从不去回首，因为我知道灯火阑珊处，不会有我期待的风景。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 病名为爱，病因为彼，<br>此解，为你。<br>此爱，无期。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有时候笨点更好，这样就看不出是敷衍的语气。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 钟情埋艳骨，风月葬名花
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 陌上公子，眉眼若画，一见之兮，误终身。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 如果可以，真想做一个渣男，可以跟漂亮姑娘随便暧昧，可以跟夜店美女一起入睡，可以疯，可以狂，可以喜欢任何人但绝不爱任何人
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我不擅长写情话，<br>所以我想去一切你去过的地方，<br>在你的每一个脚印上印下我的。<br>我不奢望你的爱，<br>因为你身边有太多比我更好的，<br>而我不过是你身后一个观望者。<br>从来不明白爱情是什么，<br>也许就像这样，<br>总有人在上，有人在下，<br>一个要卑微地等待另一个。<br><br>夜语阑珊<br>一个人孤独总比两个人寂寞要好。
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 累了就回来吧...<br>我一直都在这里等你...<br>哪怕你早已不是当初的你...
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 无所谓三个字只会从有所谓的人口中说出
+
+2019-01-28 09:47:33.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 上不了清华，也写不出情话
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 无论最终结局是否完美，我的世界不准你离开。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 很多人都劝我别抽了，我笑了笑，我孤单时烟还陪着我，而你在哪呢。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 你是南北回归的线，我是太阳直射的点。终了一生，融化不了你身后的雪原。<br>黄赤的交角是23.5个光年，走上这条路，哪怕我由白矮变成黑洞，义无反顾。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我到底是成为不了我想成为的人
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 很久很久以前，谎言和真实在河边洗澡，谎言先洗完，然后穿上真实的衣服离开了，真实洗完后，却不敢穿谎言的衣服，只好赤裸裸的离开了，于是渐渐的人们的眼中只有穿着真实衣服的谎言，去不愿接受赤裸裸的真实！
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 谁的城孤我终老，谁的海溺我白首。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： “你在感情路上不顺吗？”                    “顺啊，一路上都没什么人。”
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我的冒失，赶走了许多人，懂我的留下了。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 你为什么喜欢白色？<br><br>因为它可以涂上任何色彩。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 并不是自己有多高傲，只是不习惯对谁都微笑。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： Who do you think the lost, perhaps never had.<br>那些你以为失去的 或许从来未曾拥有过
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 当你一无所有的时候，只要还有人义无反顾地站在你身边，你就不算输得一败涂地。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 你挥毫泼墨写下绝妙封笔<br>说俗世红尘不比桃花七里
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我从不感慨时间的流逝，因为我知道，在未来的时光里，被时间带走的，只会多，不会少。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我没想过要怎样<br>只是不想就这样
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 人世浮夸轻似雪，三宵九载落梅欢。若得半日听棋闲，今朝笑看风云劫。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我承认海底的月亮我捞不起<br>我也承认心上的你遥不可及
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 想到你是我总会想起两件事 第一件 你会不会也在想我 第二件 我又在自欺欺人了
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 离开的时候，请给我一个忘记的理由，我想记住它。
+
+2019-01-28 09:47:34.47 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 明明知道是自己离开了你，可是一听到你和别人在一起，心里还是很难过。我不知道自己难过的是你曾经说的要和我永远在一起，还是觉得我们的曾经不堪一击。
+

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotnetSpider.Core" Version="3.0.8" />
+    <PackageReference Include="DotnetSpider.Extension" Version="3.0.8" />
+    <PackageReference Include="NLog" Version="4.5.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DataAnalysis\" />
+  </ItemGroup>
+
+</Project>

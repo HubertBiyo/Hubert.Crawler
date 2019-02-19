@@ -1,0 +1,30 @@
+2019-02-19 14:23:59.23 ERROR DotNetSpider.Housing.DataInput.Service.HousingService
+Message : InsertGraceful is error
+Exception : Unable to connect to any of the specified MySQL hosts.
+StackTrace :
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 322
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 405
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 175
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 161
+   at Common.MysqlHelper.MysqlExecutor.CommandExecute(MySqlCommand cmd, String cs, CommandExecuteType type) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\MysqlHelper\MysqlExecutor.cs:line 91
+   at Common.MysqlHelper.MysqlExecutor.ExecuteNonQuery(MySqlCommand cmd, String connectionString) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\MysqlHelper\MysqlExecutor.cs:line 11
+   at DotNetSpider.Housing.DataInput.Data.HousingDataProvider.AddHousingPrice(Housing model) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\DataInput\Data\DataProvider\HousingDataProvider.cs:line 38
+   at DotNetSpider.Housing.DataInput.Service.HousingService.AddHousingPrice(Housing model) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\DataInput\Service\HousingService.cs:line 17
+
+2019-02-19 14:26:46.26 ERROR DotNetSpider.Housing.DataInput.Service.HousingService
+Message : InsertGraceful is error
+Exception : Table 'Hubert_Spider.Graceful' doesn't exist
+StackTrace :
+   at MySql.Data.MySqlClient.MySqlDataReader.ActivateResultSet(ResultSet resultSet) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 74
+   at MySql.Data.MySqlClient.MySqlDataReader.ReadFirstResultSetAsync(IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 299
+   at MySql.Data.MySqlClient.MySqlDataReader.CreateAsync(MySqlCommand command, CommandBehavior behavior, ResultSetProtocol resultSetProtocol, IOBehavior ioBehavior) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlDataReader.cs:line 284
+   at MySqlConnector.Core.TextCommandExecutor.ExecuteReaderAsync(String commandText, MySqlParameterCollection parameterCollection, CommandBehavior behavior, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\TextCommandExecutor.cs:line 37
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQueryAsync(IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 261
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlCommand.cs:line 62
+   at Common.MysqlHelper.MysqlExecutor.CommandExecute(MySqlCommand cmd, String cs, CommandExecuteType type) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\MysqlHelper\MysqlExecutor.cs:line 100
+   at Common.MysqlHelper.MysqlExecutor.ExecuteNonQuery(MySqlCommand cmd, String connectionString) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\MysqlHelper\MysqlExecutor.cs:line 11
+   at DotNetSpider.Housing.DataInput.Data.HousingDataProvider.AddHousingPrice(Housing model) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\DataInput\Data\DataProvider\HousingDataProvider.cs:line 38
+   at DotNetSpider.Housing.DataInput.Service.HousingService.AddHousingPrice(Housing model) in E:\GitHub\Hubert\ASP.NET-Core\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\DataInput\Service\HousingService.cs:line 17
+

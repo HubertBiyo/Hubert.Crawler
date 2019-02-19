@@ -1,0 +1,30 @@
+2019-01-28 08:28:55.077 +08:00 [Information] On init...
+2019-01-28 08:28:55.205 +08:00 [Information] Init components...
+2019-01-28 08:28:55.230 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-01-28 08:28:55.877 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-01-28 08:29:00.125 +08:00 [Information] Crawl https://kyfw.12306.cn/otn/view/train_order.html success, results 0, effectedRow 0.
+2019-01-28 08:29:00.227 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 3909 Extract 169 Pipeline 5
+2019-01-28 08:29:16.092 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 3909 Extract 169 Pipeline 5
+2019-01-28 08:29:16.096 +08:00 [Information] Consume: 21.1089733 seconds
+2019-01-28 08:29:21.307 +08:00 [Information] On init...
+2019-01-28 08:29:21.371 +08:00 [Information] Init components...
+2019-01-28 08:29:21.391 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-01-28 08:29:21.583 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-01-28 08:41:58.009 +08:00 [Information] On init...
+2019-01-28 08:41:58.195 +08:00 [Information] Init components...
+2019-01-28 08:41:58.211 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-01-28 08:41:58.730 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-01-28 09:47:30.648 +08:00 [Information] On init...
+2019-01-28 09:47:30.848 +08:00 [Information] Init components...
+2019-01-28 09:47:30.868 +08:00 [Information] Add start urls to scheduler, count 4.
+2019-01-28 09:47:31.499 +08:00 [Verbose] Left 4 Success 0 Error 0 Total 4 Dowload 0 Extract 0 Pipeline 0
+2019-01-28 09:47:33.083 +08:00 [Information] Crawl http://www.juzimi.com/original/recommend?page=4 success, results 0, effectedRow 0.
+2019-01-28 09:47:33.184 +08:00 [Verbose] Left 3 Success 1 Error 0 Total 4 Dowload 1015 Extract 159 Pipeline 267
+2019-01-28 09:47:33.545 +08:00 [Information] Crawl http://www.juzimi.com/original/recommend?page=3 success, results 0, effectedRow 0.
+2019-01-28 09:47:33.647 +08:00 [Verbose] Left 2 Success 2 Error 0 Total 4 Dowload 665 Extract 88 Pipeline 145
+2019-01-28 09:47:34.111 +08:00 [Information] Crawl http://www.juzimi.com/original/recommend?page=2 success, results 0, effectedRow 0.
+2019-01-28 09:47:34.213 +08:00 [Verbose] Left 1 Success 3 Error 0 Total 4 Dowload 583 Extract 66 Pipeline 104
+2019-01-28 09:47:34.562 +08:00 [Information] Crawl http://www.juzimi.com/original/recommend?page=1 success, results 0, effectedRow 0.
+2019-01-28 09:47:34.663 +08:00 [Verbose] Left 0 Success 4 Error 0 Total 4 Dowload 514 Extract 53 Pipeline 84
+2019-01-28 09:47:50.662 +08:00 [Verbose] Left 0 Success 4 Error 0 Total 4 Dowload 514 Extract 53 Pipeline 84
+2019-01-28 09:47:50.670 +08:00 [Information] Consume: 20.1041845 seconds

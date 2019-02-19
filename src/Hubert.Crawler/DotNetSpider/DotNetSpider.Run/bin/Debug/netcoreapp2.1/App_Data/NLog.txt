@@ -1,0 +1,120 @@
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 再给我一次机会还是会选择喜欢你。
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 如若我喜欢的人恰好也喜欢我<br>这个世界就没有那么多错过
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 一个人走的再慢也会被时间乱了脚步，一个人走的再快也逃不掉已逝的曾经。
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 别隐身了，我是不会打扰你的。
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 你一直告诉别人，总有一天会成功，其实你只是在炫耀，好让别人看得起你。一天一天过去，你的理想是否实现，你成就了多少大事呢，时间和机会不断的提供给你，你又掌握了多少。
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 如诗<br>如画<br>霞蔚云蒸<br>蓬莱仙境<br>有不可承受之轻<br><br>山泉瀑布淙淙<br>藤蔓粘着鸟鸣<br>杂花恋树<br>谷牵着鹰<br><br>每每夜不能寐<br>云追逐月<br>梦迎接风<br><br>苍山作证<br>我还在等你<br>闪闪<br>一颗星
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 沉默不是金子，它是一种绝望，一种苍白到无言的绝望。
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 一笔一画一临摹，一诗一词一多情；<br>一花一草一枯荣，一眼一泪一断肠；<br>一雨一伞一相逢，一梳一发一白头；<br>一酒一醉一独酌，一白一青一折梅；<br>一曲一舞一风华，一琴一赋一青弦；<br>一君一心一他年，一人一城一前缘；<br>一日一月一迷离，一载一世一经年；<br>一念一痴一相随，一生一死一轮回；<br>一刀一血一诛伐，一山一水一倾临；<br>一人一心一回眸，一生一代一双人。
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 泪落下时  我才发现  我只是个小丑  我不应该有眼泪  因为  小丑终究是要退场的
+
+2019-01-25 16:56:35.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 渣遍了世界只对你好，他就是你的好男人，好尽了世界，只辜负了你他就是渣男。
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 一个呆子伤了一个傻子却是为了一个骗子。
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 毕竟我不是瞎子，人心那东西我还是看得懂的。
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 清夜长，<br>梦回廊。<br>夏日流萤篱笆上。<br>幽草舞螳螂。<br><br>新月朗，<br>映池塘。<br>荷花深处水流芳。<br>风传细细香。
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 不敢寂寞，假装快乐，伪装成魔。
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 回忆被谁提起的措手不及<br>曾经的现在的我自己面面相觑
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 小丑说：“我愿永远亲吻太阳，让它成为我不灭的信仰。”
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 不想理你的人总是很“忙”，在意你的人24小时都很“闲”
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我是多么的清楚你不喜欢我<br>可我又是那么会装傻的赖着你
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 如果我鼓起勇气说：“那个，我喜欢你！”<br>你会不会笑着回答：“好巧，我也喜欢你呢！”
+
+2019-01-25 16:56:39.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 这个夏天，<br>我们终要说再见。<br>三年陪伴，<br>永不忘。
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 可我就是喜欢你，远见，惊鸿一瞥，浅笑不语。<br>可我就是喜欢你，回眸，桃花映眼，脉脉温柔。<br>可我就是喜欢你，刹那，韶华易逝，与尔白头。<br>可我就是喜欢你，回望，素衣寒梅，与子同裘。<br>可我就是喜欢你，再遇，但且容我，伴汝左右。<br>可我就是喜欢你，此生，花开满楼，独摘一枝。<br>可我就是喜欢你，为你，一往情深，断弃风流。
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 飞蛾扑火因为向往光明<br>星星发光因为沉沦黑暗
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 叶子黄了<br>黑夜似乎来的更早了<br>岁月老了<br>日子仿佛过的更快了<br><br>简单的生活<br>平淡的人生<br><br>不愁吃穿<br>不堵输赢<br><br>生活简单<br>阳光温暖<br>无波无澜<br>家人平安 <br><br>这就是我想要的<br>如果可以<br>我还想要一盏茶 一本书<br>一把琴和一缕阳光<br> <br>这便是我理想中的生活<br>简单而又平淡<br>但这些于我而言便是<br>最大的幸福
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 若早知这般苦果，何不皈依我佛，修成正果，为何受这世间情魔。<br>若早知这般苦果，何不遨游八荒，四海为客，为何受这炼狱枷锁。<br>若早知这般苦果，何不挥毫泼墨，丹青诗作，为何受这孤身缘破。<br>若早知这般苦果，何不南山篱坡，琴瑟相合，为何受这朝野牵左。<br>若早知这般苦果，何不义正言说，黑白相落，为何受这良心推脱。<br>若早知这般苦果，何不遵守承诺，生死同卧，为何受这独自苟活。
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 青春里有那么一个少年，风度翩翩一副醉人桃花眼。<br>青春里有那么一个女孩，不施粉黛依旧吸引我入眠。<br>青春里有那么一架纸飞机，纸短情长蕴藏着几多思念。
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 安全感是什么” “手里有一把刀” “爱是什么” “把刀给他”
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： “‘sorry’是什么意思？”<br>“对不起”<br>“‘I'm sorry’呢？”<br>“真心对不起”<br>“好了好了，接受你的道歉，我原谅你了”~
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 若能一琴一瑟，陪着你抚宫商角羽，不管阳春白雪，还是下里巴人，我愿意……<br>若能一平一仄，陪着你书曲赋诗词，不管谈情说爱，还是爱国忧民，我愿意……<br>若能一红一黑，陪着你划楚河汉界，不管平和残局，还是胜负输赢，我愿意……<br>若能一点一线，陪着你描红尘万千，不管高山行云，还是小桥流水，我愿意……<br>若能一杯一盏，陪着你饮愁乐悲喜，不管颠沛流离，还是安居乐业，我愿意……<br>若能一来一去，陪着你沐春夏秋冬，不管度日如年，还是岁月如梭，我愿意……<br>若能一点一滴，陪着你忆前尘往事，不管花好月圆，还是沧海桑田，我愿意……
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 来，我敬你。<br>这第一杯，我敬你，终有一日，身败名裂。<br>这第二杯，我敬你，有生之年，病魔缠身。<br>这第三杯，我敬你，孤独一生，异死他乡。
+
+2019-01-25 16:56:41.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 想听听熟人的声音，却满眼陌生人的背影
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 农夫：待我衣食无忧，许你笑颜如花。<br>书生：待我功成名就，许你青丝倌正。<br>剑客：待我与世无双，许你执手天涯。<br>将军：待我凯旋而归，许你十里红妆。<br>太子：待我君临天下，许你一幕繁华。<br>帝王：待我了无牵挂，许你青灯古刹。<br>女孩：待君愿望达成，我已雪扫眉发。<br><br>我：你们觉得很浪漫吗，浪漫的是笑颜如花，可是还有青灯古刹。女人为甚，要用一生去揭穿假话，我们也可以功成名就，也可以君临天下。<br>有句话叫：需要王子拯救的是公主，自己拯救世界的，叫女王。
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 热泪，是月亮<br>涌出的伤悲。<br>我在寂静中听见。<br>回忆‘呼吸的声音。<br><br>温暖的雨水，<br>无尽的冲刷下来。<br>落在地上，砸的粉碎。<br><br>雨，下着<br>像是无数个我，<br>在坠落。<br><br>雨，继续下着。
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 感谢你还允许我用目光拥抱你。
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 清晨的阳光那么好，干嘛抓住昨晚的夜空不放
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 哭，很容易，鼻子一酸，眼泪就来；笑，也不难，嘴角一扬，启颜喜展。人生在世，可以时常发自内心的愉悦实属不易。无论是强颜欢笑，还是忍俊不禁，能够始终保持微笑的人，一定是经得起荒凉的人。
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 爱情就像酒，第一杯打翻了后你送给的第二个人永远都掺着水。
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 宁可一个人真实的孤独<br>不愿一群人虚假的欢愉
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 浮生若梦，<br>三生渺渺。<br>曾忆烟花绚烂际，<br>与卿相偕共赏时；<br>尔后天涯咫尺，<br>殷殷相聚无期。<br>幽幽古刹千年钟，<br>静悬阁塔笑红尘；<br>花落月残本轮回，<br>何事垂泪伤春秋？<br>岂不知，烟花绚烂一刹那，<br>终只为，众生艳羡一瞬间；<br>恰若情，痴缠一时苦一世，<br>但期许，相恋一场方无悔。<br>莫笑红尘痴与眷，<br>半壁江山亦不换；<br>倘如金石渡一生，<br>一世芳华与谁观？
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 能相遇已是再好不过的事。你的微笑，我的一生。
+
+2019-01-25 16:56:46.56 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 时光把秘密吹成花，流年把记忆画成她。
+

@@ -1,0 +1,6 @@
+2019-02-18 22:36:05.423 +08:00 [Information] On init...
+2019-02-18 22:36:05.507 +08:00 [Information] Init components...
+2019-02-18 22:36:05.528 +08:00 [Information] Add start urls to scheduler, count 1.
+2019-02-18 22:36:05.722 +08:00 [Verbose] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+2019-02-18 22:36:07.653 +08:00 [Information] Crawl https://hd.esf.fang.com/house-a0848/ success, results 0, effectedRow 0.
+2019-02-18 22:36:07.754 +08:00 [Verbose] Left 0 Success 1 Error 0 Total 1 Dowload 1345 Extract 419 Pipeline 11

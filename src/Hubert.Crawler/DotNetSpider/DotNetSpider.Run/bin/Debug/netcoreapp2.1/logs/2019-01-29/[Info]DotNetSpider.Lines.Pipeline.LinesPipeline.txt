@@ -1,0 +1,276 @@
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有一种尴尬叫做：你看见亲戚不知道喊什么，是不是？
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 说我圆滑，说我世故，说我自私，说我冷血，说什么都好，我只知道，如果我不保护好我自己，就没有人保护我了
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我在梦里失去你，却真的感到痛。
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我们本是平行线，何必费力相交！
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 开完毕业典礼那天，舍友都走了，我一个一个送的，我准备第二天走。晚上赶在小卖部关门前搞了一箱啤酒一直喝到两点多，都抱着酒瓶子坐在地上睡着了，第二天醒来，第一反应是我操上课不会迟到了吧！回头看到空荡荡的宿舍和外面安静的走廊，才明白，再也没有课要上了…………
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 9694482664，有多少人在用九宫格打出这句话后又迟迟不敢发出去？
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 似你隔岸观火，<br>后来过得自由洒脱；<br>似我隔镜观你我，<br>倒也难得独自寂寞。
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： (百)百花齐放齐芳香，<br>(年)捻做香泥风做乘。<br>(好)豪情天涯天为证，<br>(合)何处为家为情长！<br><br>Volim te <br><br>    写给爱情(6)
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我真觉得我他妈真是个傻逼，没事干嘛学人家去谈恋爱，用尽心血，最后只落得个郁郁不乐，心绞力碎，遍体鳞伤，悲痛欲绝。
+
+2019-01-29 10:35:24.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 弱水三千只取一瓢饮之，众生芸芸仅恋一人一世而已。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我本来就没主见，你还爱说随便。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我努力，我认真，我可笑，我可悲，甚至有点狼狈，有点不堪
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 深夜，一个人的深夜。<br>像深秋的风，翻飞了所有记忆的碎片。<br>于是想说的时候，我们需要努力拼凑。<br>我记得，我只记得。<br>那日空气的颜色阳光的味道以及树影的温柔。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我爱的人才配在我面前耍脾气<br>我爱的人才配说我傻<br>我爱的人才配和我并肩走<br>我爱的人才配牵我手<br>我爱的人才配和我闹<br>我爱的人才配我去等待<br>我爱的人才配我奋不顾身
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 曲终人散，此去经年，望君安稳，后会无期。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 屏幕前的我不会伤心难过，只因为你曾经的一句“别哭了，我抱不到你”
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 当苦难来临，选择信仰是个不错的主意。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我知道我是一个普通的人。<br>普通的成绩、普通的相貌、普通的身体、普通的家境、普通的思想......这就是如此普通的我。<br>但是啊，普通是会爱慕特殊的吧？所以我爱上了这样的你。<br>美丽，动人，一切都是那么的美好。<br>这就是我，独白的内心。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有时候，我，真想默默无闻，没心没肺的，因为，我，真的很累很累。很多人认为我是一个大大咧咧的人，其实，谁都不知道，我看得比谁都懂，看得比任何人的明白。没有人能看得明白我的心，我习惯性地在任何人面前掩盖自己的心事，我无法在别人面前表达自己的心......
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我自言自语 你不言不语
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： I saw you<br>You smiled warmly<br>The world began waking up<br>我看到你了<br>你笑的那么温暖<br>让世界都开始苏醒
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 平静的说出再见，转身后心如刀割
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： Stepping forward can't finish the distance while going backwards can't get rid of the memory.<br>前进走不完距离，后退走不出回忆。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我还是那个自己，固执的不像话，喜欢的东西总是有着可怕的执念，任性不懂妥协，不善控制情绪，有着让家人受不了的小性子。我不是个好孩子，所以总是不讨大人的喜欢。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 那年梨树下，夕阳满地，花开一季。我年幼稚嫩，站在夕阳里，看你路过的身影和回眸的眼神。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 土豪与屌丝的差距是：<br>土豪有难，四方支援。<br>屌丝有难，八方点赞。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 漓漓烟雨落在了这座城市的街道向晚。天气像走了音的弦，前昼是一米阳光，透过木格子窗；后夜是三更清凉，不话而钻屋入巷。灯火外的黄叶，萧萧又瘦了几夜，调不出依稀的轮廓，只是颜色早已干涸，飘忽着在死生之间穿梭。晓月，梅边，看雪，脚下的旧时光，在烟火璀璨里躲藏，却只是当时只道的寻常。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 一个男人在酒桌上喝酒正高兴的时候，<br>妻子突然来电话说：5分钟必须到家<br>男人起身离开<br>朋友们都嘲笑说：这么听媳妇的话啊<br>男人说了一句 所有人都沉默了：我享受了她的青春 就要接受她的任性。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 高楼上，谁卷珠帘？沧海桑田，遗落了当初的誓言；<br>乌舟内，谁抚琴弦？烟雨渡口，模糊了花开的彼岸。
+
+2019-01-29 10:35:25.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 中考那天<br>我们拿着试卷和答题卡向世界赌一个明天<br>而代价<br>是放弃和他们一起的三年
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 纷纷扰扰，往事愁绪缕缕知多少。<br>缠缠绵绵，红尘情事长长苦何了。<br>真真假假，纠葛迷局重重又奈何。
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我在这头<br>    你在那头<br>        如何白头。
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 别总以为来日方长 <br>回首便已人走茶凉
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 习惯是个可怕的东西，它会点点用力摧毁你的心防，然后让你明白自己有多不堪一击。
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 天冷了就照顾好自己，毕竟我不是你的谁。不能给你送药，也不能借你的外套。
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 先生既不屑小女痴狂<br>又何苦惹我念念不忘
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 吃块糖，就不苦了
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 这条路牵你的手，能不能一直走。<br>这条路牵你的手，能不能赖着不走。
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 你就像数学考试的最后一题，<br>我永远也不会做。<br>不甘心地涂涂改改<br>解:设我在不懂爱的年纪遇见你，此题无解。<br>直到最后一刻，<br>才突然明白，<br>原来<br>你并不是无解，只是解题人不是我。
+
+2019-01-29 10:35:26.35 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 鱼的记忆只有七秒<br>大概是流沙缱绻了回忆<br>流水冲淡了过往
+
+2019-01-29 14:21:02.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有一种尴尬叫做：你看见亲戚不知道喊什么，是不是？
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 说我圆滑，说我世故，说我自私，说我冷血，说什么都好，我只知道，如果我不保护好我自己，就没有人保护我了
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我在梦里失去你，却真的感到痛。
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我们本是平行线，何必费力相交！
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 开完毕业典礼那天，舍友都走了，我一个一个送的，我准备第二天走。晚上赶在小卖部关门前搞了一箱啤酒一直喝到两点多，都抱着酒瓶子坐在地上睡着了，第二天醒来，第一反应是我操上课不会迟到了吧！回头看到空荡荡的宿舍和外面安静的走廊，才明白，再也没有课要上了…………
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 9694482664，有多少人在用九宫格打出这句话后又迟迟不敢发出去？
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 似你隔岸观火，<br>后来过得自由洒脱；<br>似我隔镜观你我，<br>倒也难得独自寂寞。
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： (百)百花齐放齐芳香，<br>(年)捻做香泥风做乘。<br>(好)豪情天涯天为证，<br>(合)何处为家为情长！<br><br>Volim te <br><br>    写给爱情(6)
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我真觉得我他妈真是个傻逼，没事干嘛学人家去谈恋爱，用尽心血，最后只落得个郁郁不乐，心绞力碎，遍体鳞伤，悲痛欲绝。
+
+2019-01-29 14:21:25.21 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 弱水三千只取一瓢饮之，众生芸芸仅恋一人一世而已。
+
+2019-01-29 14:22:52.22 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有一种尴尬叫做：你看见亲戚不知道喊什么，是不是？
+
+2019-01-29 14:25:38.25 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有一种尴尬叫做：你看见亲戚不知道喊什么，是不是？
+
+2019-01-29 14:28:31.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有一种尴尬叫做：你看见亲戚不知道喊什么，是不是？
+
+2019-01-29 14:28:32.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 说我圆滑，说我世故，说我自私，说我冷血，说什么都好，我只知道，如果我不保护好我自己，就没有人保护我了
+
+2019-01-29 14:28:33.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我在梦里失去你，却真的感到痛。
+
+2019-01-29 14:28:33.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我们本是平行线，何必费力相交！
+
+2019-01-29 14:28:34.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 开完毕业典礼那天，舍友都走了，我一个一个送的，我准备第二天走。晚上赶在小卖部关门前搞了一箱啤酒一直喝到两点多，都抱着酒瓶子坐在地上睡着了，第二天醒来，第一反应是我操上课不会迟到了吧！回头看到空荡荡的宿舍和外面安静的走廊，才明白，再也没有课要上了…………
+
+2019-01-29 14:28:34.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 9694482664，有多少人在用九宫格打出这句话后又迟迟不敢发出去？
+
+2019-01-29 14:28:35.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 似你隔岸观火，<br>后来过得自由洒脱；<br>似我隔镜观你我，<br>倒也难得独自寂寞。
+
+2019-01-29 14:28:35.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： (百)百花齐放齐芳香，<br>(年)捻做香泥风做乘。<br>(好)豪情天涯天为证，<br>(合)何处为家为情长！<br><br>Volim te <br><br>    写给爱情(6)
+
+2019-01-29 14:28:36.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我真觉得我他妈真是个傻逼，没事干嘛学人家去谈恋爱，用尽心血，最后只落得个郁郁不乐，心绞力碎，遍体鳞伤，悲痛欲绝。
+
+2019-01-29 14:28:36.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 弱水三千只取一瓢饮之，众生芸芸仅恋一人一世而已。
+
+2019-01-29 14:28:37.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我本来就没主见，你还爱说随便。
+
+2019-01-29 14:28:38.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我努力，我认真，我可笑，我可悲，甚至有点狼狈，有点不堪
+
+2019-01-29 14:28:38.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 深夜，一个人的深夜。<br>像深秋的风，翻飞了所有记忆的碎片。<br>于是想说的时候，我们需要努力拼凑。<br>我记得，我只记得。<br>那日空气的颜色阳光的味道以及树影的温柔。
+
+2019-01-29 14:28:39.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我爱的人才配在我面前耍脾气<br>我爱的人才配说我傻<br>我爱的人才配和我并肩走<br>我爱的人才配牵我手<br>我爱的人才配和我闹<br>我爱的人才配我去等待<br>我爱的人才配我奋不顾身
+
+2019-01-29 14:28:39.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 曲终人散，此去经年，望君安稳，后会无期。
+
+2019-01-29 14:28:39.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 屏幕前的我不会伤心难过，只因为你曾经的一句“别哭了，我抱不到你”
+
+2019-01-29 14:28:40.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 当苦难来临，选择信仰是个不错的主意。
+
+2019-01-29 14:28:40.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我知道我是一个普通的人。<br>普通的成绩、普通的相貌、普通的身体、普通的家境、普通的思想......这就是如此普通的我。<br>但是啊，普通是会爱慕特殊的吧？所以我爱上了这样的你。<br>美丽，动人，一切都是那么的美好。<br>这就是我，独白的内心。
+
+2019-01-29 14:28:41.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 有时候，我，真想默默无闻，没心没肺的，因为，我，真的很累很累。很多人认为我是一个大大咧咧的人，其实，谁都不知道，我看得比谁都懂，看得比任何人的明白。没有人能看得明白我的心，我习惯性地在任何人面前掩盖自己的心事，我无法在别人面前表达自己的心......
+
+2019-01-29 14:28:42.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我自言自语 你不言不语
+
+2019-01-29 14:28:42.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： I saw you<br>You smiled warmly<br>The world began waking up<br>我看到你了<br>你笑的那么温暖<br>让世界都开始苏醒
+
+2019-01-29 14:28:43.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 平静的说出再见，转身后心如刀割
+
+2019-01-29 14:28:43.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： Stepping forward can't finish the distance while going backwards can't get rid of the memory.<br>前进走不完距离，后退走不出回忆。
+
+2019-01-29 14:28:44.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我还是那个自己，固执的不像话，喜欢的东西总是有着可怕的执念，任性不懂妥协，不善控制情绪，有着让家人受不了的小性子。我不是个好孩子，所以总是不讨大人的喜欢。
+
+2019-01-29 14:28:44.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 那年梨树下，夕阳满地，花开一季。我年幼稚嫩，站在夕阳里，看你路过的身影和回眸的眼神。
+
+2019-01-29 14:28:45.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 土豪与屌丝的差距是：<br>土豪有难，四方支援。<br>屌丝有难，八方点赞。
+
+2019-01-29 14:28:45.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 漓漓烟雨落在了这座城市的街道向晚。天气像走了音的弦，前昼是一米阳光，透过木格子窗；后夜是三更清凉，不话而钻屋入巷。灯火外的黄叶，萧萧又瘦了几夜，调不出依稀的轮廓，只是颜色早已干涸，飘忽着在死生之间穿梭。晓月，梅边，看雪，脚下的旧时光，在烟火璀璨里躲藏，却只是当时只道的寻常。
+
+2019-01-29 14:28:46.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 一个男人在酒桌上喝酒正高兴的时候，<br>妻子突然来电话说：5分钟必须到家<br>男人起身离开<br>朋友们都嘲笑说：这么听媳妇的话啊<br>男人说了一句 所有人都沉默了：我享受了她的青春 就要接受她的任性。
+
+2019-01-29 14:28:46.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 高楼上，谁卷珠帘？沧海桑田，遗落了当初的誓言；<br>乌舟内，谁抚琴弦？烟雨渡口，模糊了花开的彼岸。
+
+2019-01-29 14:28:47.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 中考那天<br>我们拿着试卷和答题卡向世界赌一个明天<br>而代价<br>是放弃和他们一起的三年
+
+2019-01-29 14:28:48.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 纷纷扰扰，往事愁绪缕缕知多少。<br>缠缠绵绵，红尘情事长长苦何了。<br>真真假假，纠葛迷局重重又奈何。
+
+2019-01-29 14:28:49.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 我在这头<br>    你在那头<br>        如何白头。
+
+2019-01-29 14:28:49.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 别总以为来日方长 <br>回首便已人走茶凉
+
+2019-01-29 14:28:50.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 习惯是个可怕的东西，它会点点用力摧毁你的心防，然后让你明白自己有多不堪一击。
+
+2019-01-29 14:28:50.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 天冷了就照顾好自己，毕竟我不是你的谁。不能给你送药，也不能借你的外套。
+
+2019-01-29 14:28:51.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 先生既不屑小女痴狂<br>又何苦惹我念念不忘
+
+2019-01-29 14:28:51.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 吃块糖，就不苦了
+
+2019-01-29 14:28:52.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 这条路牵你的手，能不能一直走。<br>这条路牵你的手，能不能赖着不走。
+
+2019-01-29 14:28:52.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 你就像数学考试的最后一题，<br>我永远也不会做。<br>不甘心地涂涂改改<br>解:设我在不懂爱的年纪遇见你，此题无解。<br>直到最后一刻，<br>才突然明白，<br>原来<br>你并不是无解，只是解题人不是我。
+
+2019-01-29 14:28:53.28 INFO DotNetSpider.Lines.Pipeline.LinesPipeline
+Message : 句子迷爬虫： 鱼的记忆只有七秒<br>大概是流沙缱绻了回忆<br>流水冲淡了过往
+
