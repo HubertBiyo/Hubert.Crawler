@@ -37,7 +37,7 @@ namespace DotNetSpider.Housing.NewHouse.Fang
                 //面积
                 HousingModel.House_Area = null;
                 //爬虫房源类型 
-                HousingModel.House_SpiderType = "新房";
+                HousingModel.House_SpiderType = "newhouse";
                 //楼层
                 HousingModel.Floor = null;
                 //方位
