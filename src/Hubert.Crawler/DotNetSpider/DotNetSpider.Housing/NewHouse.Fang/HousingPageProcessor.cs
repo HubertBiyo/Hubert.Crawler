@@ -20,6 +20,8 @@ namespace DotNetSpider.Housing.NewHouse.Fang
                 var HousingModel = new Housing();
                 //小区名称
                 HousingModel.Village = RemoveHtml.RemoveHTMLTags(housingElements.Select(Selectors.XPath("./div[@class='house_value clearfix']/div[@class='nlcd_name']/a")).GetValue());
+                //备注
+                HousingModel.Remark = RemoveHtml.RemoveHTMLTags(housingElements.Select(Selectors.XPath("./div[@class='house_type clearfix']")).GetValue()).Replace("\n","");
                 //小区名称
                 HousingModel.Title = null;
                 //装饰
@@ -42,7 +44,7 @@ namespace DotNetSpider.Housing.NewHouse.Fang
                 HousingModel.Direcation = null;
                 //具体位置
                 HousingModel.Location = RemoveHtml.RemoveHTMLTags( housingElements.Select(Selectors.XPath("./div[@class='relative_message clearfix']/div[@class='address']/a")).GetValue());
-                //var result = DataInput.Service.HousingService.Instance.AddHousingPrice(HousingModel);
+                var result = DataInput.Service.HousingService.Instance.AddHousingPrice(HousingModel);
 
                 results.Add(HousingModel);
             }

@@ -37,6 +37,9 @@ namespace DotNetSpider.Housing
                 HousingModel.Direcation = housingElements.Select(Selectors.XPath("./dd[1]/p[1]/text()[4]")).GetValue().Replace(" ", "");
                 //具体位置
                 HousingModel.Location = housingElements.Select(Selectors.XPath("./dd[1]/p[2]/span")).GetValue().Replace(" ", "");
+
+                //爬虫房源类型 
+                HousingModel.House_SpiderType = "二手房";
                 var result = DataInput.Service.HousingService.Instance.AddHousingPrice(HousingModel);
 
                 results.Add(HousingModel);

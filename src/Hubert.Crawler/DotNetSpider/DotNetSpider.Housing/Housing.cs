@@ -80,6 +80,10 @@ namespace DotNetSpider.Housing
         /// 爬虫类型  新房(newhouse)   二手房(esf)  等等
         /// </summary>
         public string House_SpiderType { get; set; }
+        /// <summary>
+        /// 备注
+        /// </summary>
+        public string  Remark { get; set; }
 
     }
 }

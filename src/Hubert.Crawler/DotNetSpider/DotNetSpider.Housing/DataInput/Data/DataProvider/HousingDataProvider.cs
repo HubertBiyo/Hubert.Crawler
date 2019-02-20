@@ -10,9 +10,14 @@ namespace DotNetSpider.Housing.DataInput.Data
         public bool AddHousingPrice(Housing model)
         {
             StringBuilder sql = new StringBuilder(@"
-INSERT INTO Housing ( Id, Title, Village, Region, House_Type, Total_Price, House_Area,Per_Price,Floor,Direcation,Build_Time,Decoration,Location,Propety,Indivdual_House,Release_Time,CreateTime )
-VALUES
-	( @Id, @Title, @Village, @Region, @House_Type, @Total_Price, @House_Area,@Per_Price,@Floor,@Direcation,@Build_Time,@Decoration,@Location,@Propety,@Indivdual_House,@Release_Time,@CreateTime )
+INSERT INTO Housing (Id, Title, Village, Region, House_Type
+	, Total_Price, House_Area, Per_Price, Floor, Direcation
+	, Build_Time, Decoration, Location, Propety, Indivdual_House
+	, Release_Time, CreateTime, Contact, House_SpiderType, Remark)
+VALUES (@Id, @Title, @Village, @Region, @House_Type
+	, @Total_Price, @House_Area, @Per_Price, @Floor, @Direcation
+	, @Build_Time, @Decoration, @Location, @Propety, @Indivdual_House
+	, @Release_Time, @CreateTime, @Contact, @House_SpiderType, @Remark)
 ");
             using (var command = new MySqlCommand(sql.ToString()))
             {
@@ -33,6 +38,9 @@ VALUES
                 command.Parameters.AddWithNullableValue("@Indivdual_House", model.Indivdual_House);
                 command.Parameters.AddWithNullableValue("@Release_Time", model.Release_Time);
                 command.Parameters.AddWithNullableValue("@CreateTime",DateTime.Now);
+                command.Parameters.AddWithNullableValue("@Contact", model.Contact);
+                command.Parameters.AddWithNullableValue("@House_SpiderType", model.House_SpiderType);
+                command.Parameters.AddWithNullableValue("@Remark", model.Remark);
                 using (var executor = new MysqlExecutor())
                 {
                     return executor.ExecuteNonQuery(command, DataProviders.MainConnectionString_ReadWrite) > 0;
