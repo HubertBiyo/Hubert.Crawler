@@ -25,3 +25,11 @@ E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Hou
 E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.AssemblyInfo.cs
 E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.dll
 E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.pdb
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\bin\Debug\netstandard2.0\DotNetSpider.Housing.deps.json
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\bin\Debug\netstandard2.0\DotNetSpider.Housing.dll
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\bin\Debug\netstandard2.0\DotNetSpider.Housing.pdb
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.csproj.CoreCompileInputs.cache
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.AssemblyInfoInputs.cache
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.AssemblyInfo.cs
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.dll
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\obj\Debug\netstandard2.0\DotNetSpider.Housing.pdb

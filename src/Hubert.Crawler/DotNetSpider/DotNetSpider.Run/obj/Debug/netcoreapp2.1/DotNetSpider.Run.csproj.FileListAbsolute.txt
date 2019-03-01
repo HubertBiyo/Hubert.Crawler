@@ -56,3 +56,17 @@ E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run
 E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.csproj.CopyComplete
 E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.dll
 E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.pdb
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Run.deps.json
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Run.runtimeconfig.json
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Run.runtimeconfig.dev.json
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Run.dll
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Run.pdb
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Housing.dll
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\bin\Debug\netcoreapp2.1\DotNetSpider.Housing.pdb
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.csprojAssemblyReference.cache
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.csproj.CoreCompileInputs.cache
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.AssemblyInfoInputs.cache
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.AssemblyInfo.cs
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.csproj.CopyComplete
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.dll
+E:\GitHub\HubertBiyo\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Run\obj\Debug\netcoreapp2.1\DotNetSpider.Run.pdb

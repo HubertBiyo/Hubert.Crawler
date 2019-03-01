@@ -85,5 +85,10 @@ namespace DotNetSpider.Housing
         /// </summary>
         public string  Remark { get; set; }
 
+        /// <summary>
+        /// 城市
+        /// </summary>
+        public string City { get; set; }
+
     }
 }

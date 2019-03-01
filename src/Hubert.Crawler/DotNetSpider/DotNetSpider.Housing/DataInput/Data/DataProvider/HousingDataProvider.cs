@@ -13,11 +13,11 @@ namespace DotNetSpider.Housing.DataInput.Data
 INSERT INTO Housing (Id, Title, Village, Region, House_Type
 	, Total_Price, House_Area, Per_Price, Floor, Direcation
 	, Build_Time, Decoration, Location, Propety, Indivdual_House
-	, Release_Time, CreateTime, Contact, House_SpiderType, Remark)
+	, Release_Time, CreateTime, Contact, House_SpiderType, Remark,City)
 VALUES (@Id, @Title, @Village, @Region, @House_Type
 	, @Total_Price, @House_Area, @Per_Price, @Floor, @Direcation
 	, @Build_Time, @Decoration, @Location, @Propety, @Indivdual_House
-	, @Release_Time, @CreateTime, @Contact, @House_SpiderType, @Remark)
+	, @Release_Time, @CreateTime, @Contact, @House_SpiderType, @Remark,@City)
 ");
             using (var command = new MySqlCommand(sql.ToString()))
             {
@@ -41,6 +41,7 @@ VALUES (@Id, @Title, @Village, @Region, @House_Type
                 command.Parameters.AddWithNullableValue("@Contact", model.Contact);
                 command.Parameters.AddWithNullableValue("@House_SpiderType", model.House_SpiderType);
                 command.Parameters.AddWithNullableValue("@Remark", model.Remark);
+                command.Parameters.AddWithNullableValue("@City", model.City);
                 using (var executor = new MysqlExecutor())
                 {
                     return executor.ExecuteNonQuery(command, DataProviders.MainConnectionString_ReadWrite) > 0;
