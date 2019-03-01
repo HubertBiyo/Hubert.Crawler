@@ -1,0 +1,5 @@
+E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.School\bin\Debug\netstandard2.0\DotNetSpider.School.deps.json
+E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.School\bin\Debug\netstandard2.0\DotNetSpider.School.dll
+E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.School\obj\Debug\netstandard2.0\DotNetSpider.School.csproj.CoreCompileInputs.cache
+E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.School\obj\Debug\netstandard2.0\DotNetSpider.School.AssemblyInfoInputs.cache
+E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.School\obj\Debug\netstandard2.0\DotNetSpider.School.AssemblyInfo.cs

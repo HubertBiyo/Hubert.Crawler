@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetSpider.Run", "DotNetS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetSpider.Housing", "DotNetSpider\DotNetSpider.Housing\DotNetSpider.Housing.csproj", "{19703C65-8BB8-444A-AD4D-E999EF814961}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetSpider.School", "DotNetSpider\DotNetSpider.School\DotNetSpider.School.csproj", "{A5B73674-ACC2-41DD-8F08-2934DACC724C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{19703C65-8BB8-444A-AD4D-E999EF814961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19703C65-8BB8-444A-AD4D-E999EF814961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19703C65-8BB8-444A-AD4D-E999EF814961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B73674-ACC2-41DD-8F08-2934DACC724C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B73674-ACC2-41DD-8F08-2934DACC724C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B73674-ACC2-41DD-8F08-2934DACC724C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B73674-ACC2-41DD-8F08-2934DACC724C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{47E30C35-08AB-4840-86A7-276E37683514} = {D688D7AC-75C4-4819-9877-E222E0F5FC93}
 		{19703C65-8BB8-444A-AD4D-E999EF814961} = {D688D7AC-75C4-4819-9877-E222E0F5FC93}
+		{A5B73674-ACC2-41DD-8F08-2934DACC724C} = {D688D7AC-75C4-4819-9877-E222E0F5FC93}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C28B6572-056D-4C82-9D52-AA40DCC55CB5}

@@ -1,0 +1,64 @@
+2019-02-22 16:03:13.574 +08:00 [Information] On init...
+2019-02-22 16:03:13.613 +08:00 [Information] Init components...
+2019-02-22 16:03:13.623 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-22 16:03:13.712 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-22 16:04:15.476 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.11 success, results 0, effectedRow 0.
+2019-02-22 16:05:16.502 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.10 success, results 0, effectedRow 0.
+2019-02-22 16:06:16.998 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.9 success, results 0, effectedRow 0.
+2019-02-22 16:07:18.153 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.8 success, results 0, effectedRow 0.
+2019-02-22 16:09:22.484 +08:00 [Information] On init...
+2019-02-22 16:09:22.521 +08:00 [Information] Init components...
+2019-02-22 16:09:22.532 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-22 16:09:22.617 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-22 16:09:34.965 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.11 success, results 0, effectedRow 0.
+2019-02-22 16:09:45.352 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.10 success, results 0, effectedRow 0.
+2019-02-22 16:09:55.263 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.9 success, results 0, effectedRow 0.
+2019-02-22 16:10:06.575 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.8 success, results 0, effectedRow 0.
+2019-02-22 16:10:19.424 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.7 success, results 0, effectedRow 0.
+2019-02-22 16:10:41.183 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.6 success, results 0, effectedRow 0.
+2019-02-22 16:10:53.648 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.5 success, results 0, effectedRow 0.
+2019-02-22 16:11:05.036 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.4 success, results 0, effectedRow 0.
+2019-02-22 16:11:15.328 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.3 success, results 0, effectedRow 0.
+2019-02-22 16:11:25.526 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.2 success, results 0, effectedRow 0.
+2019-02-22 16:11:25.628 +08:00 [Verbose] Left 1 Success 10 Error 0 Total 11 Dowload 2253 Extract 9893 Pipeline 45
+2019-02-22 16:11:27.179 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 32
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-22 16:11:28.875 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 32
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-22 16:11:30.512 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 32
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-22 16:11:32.153 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 32
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-22 16:11:33.787 +08:00 [Warning] Retry request: https://hd.newhouse.fang.com/house/s/ because processor exception: System.Exception: Your input html stream is null!
+   at Common.Format.RemoveHtml.RemoveHTMLTags(String htmlStream) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\Common\Format\RemoveHtml.cs:line 25
+   at DotNetSpider.Housing.NewHouse.Fang.HousingPageProcessor.Handle(Page page) in E:\GitHub\Hubert\Hubert.Crawler\src\Hubert.Crawler\DotNetSpider\DotNetSpider.Housing\NewHouse.Fang\HousingPageProcessor.cs:line 32
+   at DotnetSpider.Core.Processor.BasePageProcessor.Process(Page page)
+   at DotnetSpider.Core.Spider.HandleRequest(Stopwatch stopwatch, Request request, IDownloader downloader).
+2019-02-22 16:11:51.462 +08:00 [Verbose] Left 0 Success 10 Error 6 Total 16 Dowload 1415 Extract 9893 Pipeline 45
+2019-02-22 16:11:51.470 +08:00 [Information] Consume: 148.9914384 seconds
+2019-02-22 17:06:55.954 +08:00 [Information] On init...
+2019-02-22 17:06:56.042 +08:00 [Information] Init components...
+2019-02-22 17:06:56.113 +08:00 [Information] Add start urls to scheduler, count 11.
+2019-02-22 17:06:56.433 +08:00 [Verbose] Left 11 Success 0 Error 0 Total 11 Dowload 0 Extract 0 Pipeline 0
+2019-02-22 17:08:06.637 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.11 success, results 0, effectedRow 0.
+2019-02-22 17:08:51.036 +08:00 [Information] On init...
+2019-02-22 17:08:51.086 +08:00 [Information] Init components...
+2019-02-22 17:08:51.100 +08:00 [Information] Add start urls to scheduler, count 10.
+2019-02-22 17:08:51.323 +08:00 [Verbose] Left 10 Success 0 Error 0 Total 10 Dowload 0 Extract 0 Pipeline 0
+2019-02-22 17:09:12.379 +08:00 [Information] Crawl https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.11 success, results 0, effectedRow 0.
+2019-02-22 17:09:52.757 +08:00 [Information] On init...
+2019-02-22 17:09:52.817 +08:00 [Information] Init components...
+2019-02-22 17:09:52.832 +08:00 [Information] Add start urls to scheduler, count 9.
+2019-02-22 17:09:53.031 +08:00 [Verbose] Left 9 Success 0 Error 0 Total 9 Dowload 0 Extract 0 Pipeline 0

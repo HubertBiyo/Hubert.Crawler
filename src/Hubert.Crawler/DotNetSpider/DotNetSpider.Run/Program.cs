@@ -16,7 +16,7 @@ namespace DotNetSpider.Run
             // Start crawler 启动爬虫
             spider.EncodingName = "GBK";
             spider.AddRequests($"https://hd.newhouse.fang.com/house/s/");
-            for (int i = 2; i < 12; ++i)
+            for (int i = 3; i < 12; ++i)
             {
                 // Add start/feed urls. 添加初始采集链接
                 spider.AddRequests($"https://hd.newhouse.fang.com/house/s/b92/?ctm=1.hd.xf_search.page.{i}");
